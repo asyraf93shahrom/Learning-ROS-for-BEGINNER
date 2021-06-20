@@ -28,6 +28,25 @@ This tutorial introduces ROS services, and parameters as well as using the rosse
 ## 9) [Using rqt_console and roslaunch](http://wiki.ros.org/ROS/Tutorials/UsingRqtconsoleRoslaunch)
 This tutorial introduces ROS using rqt_console and rqt_logger_level for debugging and roslaunch for starting many nodes at once. If you use ROS fuerte or ealier distros where rqt isn't fully available, please see this page with this page that uses old rx based tools.
 ## 10)[Using rosed to edit file in ROS](http://wiki.ros.org/ROS/Tutorials/UsingRosEd)
-## 6) publisher and subcriber
-## 7) controller implmentation
-## 8) Build your robot using URDF
+This tutorial shows how to use rosed to make editing easier. 
+## 11)Creating ROS msg and srv
+This tutorial covers how to create and build msg and srv files as well as the rosmsg, rossrv and roscp commandline tools. 
+## 12)Writiing simple publisher and subcriber (C++)
+This tutorial covers how to write a publisher and subscriber node in C++. 
+## 13)Writiing simple publisher and subcriber (python)
+This tutorial covers how to write a publisher and subscriber node in python. 
+## 14)Examining the Simple Publisher and Subscriber
+This tutorial examines running the simple publisher and subscriber. 
+## 15)Writing a Simple Service and Client (C++)
+This tutorial covers how to write a service and client node in C++. 
+## 16)Writing a Simple Service and Client (Python)
+This tutorial covers how to write a service and client node in python. 
+## 17)Examining the Simple Service and Client
+This tutorial examines running the simple service and client.
+## 18)Recording and playing back data
+This tutorial will teach you how to record data from a running ROS system into a .bag file, and then to play back the data to produce similar behavior in a running system
+## 19)Reading messages from a bag file
+Learn two ways to read messages from desired topics in a bag file, including using the ros_readbagfile script.
+## 20)Getting started with roswtf
+Basic introduction to the roswtf tool.
+
