@@ -1,6 +1,5 @@
 ## 1)	Preparation of Ubuntu and ROS
-1. Install Ubuntu along side window (dual boot)
-Things needed
+1. Things needed to install Ubuntu along side window (dual boot)
 - [Ubuntu (18.04 0r 20.04)](https://ubuntu.com/download/desktop#download)
 - USB pendrive more than 3GB
 - [create partation in disk](https://www.youtube.com/watch?v=_HgjasKuOBw)
