@@ -11,9 +11,10 @@
 sudo apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
 ```
 
-## Install and configure ROS enviroment
-## Navigating ROS file system
-## create and build ros package
-## ROS topic,node,massages
-## publisher and subcriber
-## controller implmentation
+## 2) Install and configure ROS enviroment
+## 3) Navigating ROS file system
+## 4) create and build ros package
+## 5) ROS topic,node,massages
+## 6) publisher and subcriber
+## 7) controller implmentation
+## 8) Build your robot using URDF
