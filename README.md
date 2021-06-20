@@ -1,6 +1,9 @@
 ## 1)	Introduction and preparation
 1. Install [Ubuntu (18.04 0r 20.04)](https://ubuntu.com/download/desktop#download)
-- [Rufus](https://rufus.ie/en_US/)
+Things needed
+- USB pendrive more than 3GB
+- [create partation in disk](https://www.youtube.com/watch?v=_HgjasKuOBw)
+- [Rufus](https://rufus.ie/en_US/)to create bootable USB pendrive
 3. Install [ROS for melodic](http://wiki.ros.org/melodic/Installation/Ubuntu) or [ROS for Neotic](http://wiki.ros.org/noetic/Installation/Ubuntu)
 4. In second step, **Set up your keys(for neotic)** use this command for instead
 ```
