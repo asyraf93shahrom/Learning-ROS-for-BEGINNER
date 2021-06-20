@@ -16,7 +16,7 @@ sudo apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31
 ## 3) [Navigating ROS file system](http://wiki.ros.org/ROS/Tutorials/NavigatingTheFilesystem)
 ## 4) [create and build ros package](http://wiki.ros.org/ROS/Tutorials/CreatingPackage)
 ## 5) [Build ros package](http://wiki.ros.org/ROS/Tutorials/BuildingPackages)
-## 5) [Ubderstand ROS node](http://wiki.ros.org/ROS/Tutorials/UnderstandingNodes)
+## 5) [Understand ROS node](http://wiki.ros.org/ROS/Tutorials/UnderstandingNodes)
 ## 7) [Understand ROS topic](http://wiki.ros.org/ROS/Tutorials/UnderstandingTopics)
 ## 8) [Understand ROS service and Parameters](http://wiki.ros.org/ROS/Tutorials/UnderstandingServicesParams)
 ## 9) [Using rqt_console and roslaunch](http://wiki.ros.org/ROS/Tutorials/UsingRqtconsoleRoslaunch)
