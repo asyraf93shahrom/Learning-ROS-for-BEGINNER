@@ -6,7 +6,7 @@
 - [Rufus](https://rufus.ie/en_US/) to create bootable USB pendrive 
 - [Intall ubuntu](https://www.youtube.com/watch?v=-iSAyiicyQY&t=536s)
 3. Install [ROS for melodic](http://wiki.ros.org/melodic/Installation/Ubuntu) or [ROS for Neotic](http://wiki.ros.org/noetic/Installation/Ubuntu)
-4. In second step, **Set up your keys(for neotic)** use this command for instead
+4. In step, **1.3 Set up your keys(for neotic)** use this command for instead
 ```
 sudo apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
 ```
